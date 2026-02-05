@@ -1,0 +1,4 @@
+opencv-python
+mediapipe
+pygame  # (Assuming you used pygame for the sound engine)
+numpy
